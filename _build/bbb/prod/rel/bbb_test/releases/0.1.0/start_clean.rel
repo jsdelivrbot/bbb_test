@@ -1,0 +1,7 @@
+{release,{"bbb_test","0.1.0"},
+         {erts,"8.2"},
+         [{kernel,"5.1.1"},
+          {stdlib,"3.2"},
+          {iex,"1.4.2"},
+          {elixir,"1.4.2"},
+          {compiler,"7.0.3"}]}.

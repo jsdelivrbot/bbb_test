@@ -1,0 +1,14 @@
+Buildroot: 2016.11.1
+79d9bc2aa8b73646ef192659f90b428baa51c143b11ecc8ccaf3a0635640edf1  ./buildroot/0001-erlang-clean-up-target-installation.patch
+ad4a04202f949bd6bac122e987b930d16b93733dc6a7b1f496b5923bb1257910  ./buildroot/0002-mtools-Disable-iconv-use-on-target.patch
+6b5a30db6e821eb71c8ec71c27062a774b9fda583d6a5801df0b0079923a4291  ./buildroot/0003-libarchive-disable-lz4.patch
+51d178d67ce2f630aa9b822609701691c19a705d4b2a0cc578cf3e660c1361db  ./buildroot/0004-NERVES_DEFCONFIG_DIR-support.patch
+44c160891b6a9833d733e4fd9f0549bcde39e59b94fc7ecff7065fc1d2136d27  ./buildroot/0005-Add-customizable-linux-logo.patch
+528a617bbe24396e4e1c93fa1d816982712cfc5e55b44cd8560e008204cc2c99  ./buildroot/0006-kernel-wireless-regdb-install-regdb-in-kernel.patch
+869ed610236ddedf62c06201f2e2246f4f7dbfeb97b19b204a51399655b5440e  ./buildroot/0007-dtc-include-device-tree-overlay-patches.patch
+ba9b6fbc90b47a6c3fc898e8a68de64e52496398d3965dc068f3b0486c5261fe  ./buildroot/0008-toolchain-allow-crosstool-ng-musl-toolchains.patch
+b87dee7622bba6eb0ab252b7ac0f61fa4d7e74257aa72603618580d61badf1fa  ./buildroot/0009-erlang-bump-to-version-19.2.patch
+0835a17100885af7d7592cec25029bd69f4527f12b70b31f72fa19b5b44c116b  ./buildroot/0010-util-linux-add-ldattach-option.patch
+f6fb87e7391b1bc60c64d6614834771f3634d496d8b188ba62453fd7620090d3  ./buildroot/0011-erlang-force-configure-options.patch
+708587f855bd268325472c159935f5ee0cad1e572588bee089f680a0d89d08f0  ./buildroot/0012-fwup-bump-to-version-v0.13.0.patch
+636b84b546f845d65b1b20c6a6a089124b9ec44df9dd330117a0358318331124  ./buildroot/0013-raspberrypi-combined-update.patch

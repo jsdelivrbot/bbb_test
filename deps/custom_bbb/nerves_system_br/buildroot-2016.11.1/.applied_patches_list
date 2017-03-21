@@ -1,0 +1,13 @@
+/nerves/env/platform/patches/buildroot/0001-erlang-clean-up-target-installation.patch
+/nerves/env/platform/patches/buildroot/0002-mtools-Disable-iconv-use-on-target.patch
+/nerves/env/platform/patches/buildroot/0003-libarchive-disable-lz4.patch
+/nerves/env/platform/patches/buildroot/0004-NERVES_DEFCONFIG_DIR-support.patch
+/nerves/env/platform/patches/buildroot/0005-Add-customizable-linux-logo.patch
+/nerves/env/platform/patches/buildroot/0006-kernel-wireless-regdb-install-regdb-in-kernel.patch
+/nerves/env/platform/patches/buildroot/0007-dtc-include-device-tree-overlay-patches.patch
+/nerves/env/platform/patches/buildroot/0008-toolchain-allow-crosstool-ng-musl-toolchains.patch
+/nerves/env/platform/patches/buildroot/0009-erlang-bump-to-version-19.2.patch
+/nerves/env/platform/patches/buildroot/0010-util-linux-add-ldattach-option.patch
+/nerves/env/platform/patches/buildroot/0011-erlang-force-configure-options.patch
+/nerves/env/platform/patches/buildroot/0012-fwup-bump-to-version-v0.13.0.patch
+/nerves/env/platform/patches/buildroot/0013-raspberrypi-combined-update.patch

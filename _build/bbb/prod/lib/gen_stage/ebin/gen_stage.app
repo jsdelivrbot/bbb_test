@@ -1,0 +1,11 @@
+{application,gen_stage,
+             [{description,"Producer and consumer pipelines with back-pressure for Elixir"},
+              {modules,['Elixir.ConsumerSupervisor','Elixir.GenStage',
+                        'Elixir.GenStage.BroadcastDispatcher',
+                        'Elixir.GenStage.DemandDispatcher',
+                        'Elixir.GenStage.Dispatcher',
+                        'Elixir.GenStage.PartitionDispatcher',
+                        'Elixir.GenStage.Streamer']},
+              {registered,[]},
+              {vsn,"0.11.0"},
+              {applications,[kernel,stdlib,elixir,logger]}]}.
